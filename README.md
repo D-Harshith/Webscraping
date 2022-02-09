@@ -1,0 +1,1 @@
+# Webscraping: Using beautiful library web scraping is done to get the top movies of all time. It can be done effortlessly without any manual searching. After running the code, a text file with movies names will be created. 
